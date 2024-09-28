@@ -73,5 +73,5 @@ The dataset contains customer information and includes the following key columns
 3. **Early Engagement**: Focus on improving customer experience within the first year, as churn is highest during this period.
 4. **Special Retention Programs for Senior Citizens**: Create personalized offers or assistance programs to retain senior customers.
 
----
+
 
