@@ -12,17 +12,6 @@ This project aims to analyze customer churn in the telecom industry. The objecti
 
 ---
 
-## Folder Structure
-
-- **/data/**: Contains all the datasets used in this analysis.
-- **/notebooks/**: Jupyter notebooks where the analysis is done.
-- **/models/**: Includes the saved models used for churn prediction.
-- **/reports/**: Detailed reports on the findings and results of the analysis.
-- **/src/**: Python scripts for data preprocessing, model training, and evaluation.
-- **/visualizations/**: Visual representations of churn patterns and insights.
-
----
-
 ## Data
 
 The dataset contains customer information and includes the following key columns:
